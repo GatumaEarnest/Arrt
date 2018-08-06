@@ -1,0 +1,21 @@
+h1{font-family: fantasy; color: rgb(255,215,0);}
+.body{
+    ;color: rgb(0, 128, 128); }
+    .IMG{float: inherit;}
+    @font-face {
+    font-family:AclonicaFont;
+  src:url();
+                }
+    .pushr{ width: 50%;
+          width:350px;
+          font-family: AclonicaFont;
+          float: right;
+          background-image: url("/home/ernest/Documents/Moringa-school-projects/Class-and-Id/class-nd-id/CSS/TessBar.css/5705a739ade092a857123f33e73debf4--daffodils-spring-flowers.jpg");
+          }
+      .list{background-color:rgb(0, 0, 0); background-image: url("/home/ernest/Documents/Moringa-school-projects/Class-and-Id/class-nd-id/Cognitive-thinking.html/5a31cb102212b_telepathy.jpg");}
+      .dig{background-color: rgb(178,190,181);
+             }
+
+ .crimson{background-color: rgb(220,20,60);
+
+               }
